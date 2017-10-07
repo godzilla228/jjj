@@ -1,0 +1,101 @@
+.navbar.transparent.navbar-inverse .navbar-inner {
+
+    border-width: 0px;
+
+    -webkit-box-shadow: 0px 0px;
+
+    box-shadow: 0px 0px;
+
+    background-color: rgba(0,0,0,0.0);
+
+    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+
+}
+.navbar {
+
+   background-color: transparent;
+
+   background: transparent;
+
+   border-color: transparent;
+
+   position: fixed;
+
+   width: 100%;
+
+}
+
+
+
+.ss {
+
+  color: rgba(255,255,255,1);
+
+  font-size: 1.3em;
+
+  font-variant: small-caps;
+
+}
+
+.un {
+
+  color: rgba(255,255,255,1);
+
+}
+
+h1 {
+
+  font-family: 'Great Vibes', cursive;
+
+  font-size: 10em;
+
+
+
+}
+
+.carousel-caption {
+
+  top: 30%;
+
+  bottom: -40%;
+
+}
+
+.grey {
+
+  color: lightgrey;
+
+  height: 50px;
+
+  line-height: 50px;
+
+  }
+
+.big {
+
+  font-size: 2em;
+
+  font-weight: 900;
+
+}
+
+.citate {
+
+  color: lightgrey;
+
+  height: 50px;
+
+  line-height: 50px;
+
+  border-left: 3px solid lightgrey;
+
+  padding-left: 10%;
+
+}
+.slider img{
+  width: 100%;
+}
